@@ -14,3 +14,4 @@ Day 1: BTC analysis
 Day 2: ETH setup
 Day 3: market check
 Day 4: BTC support resistance
+Day 5: ETH futures setup
