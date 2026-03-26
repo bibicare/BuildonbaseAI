@@ -53,3 +53,4 @@ Day 40: BTC resistance flip
 Day 41: ETH continuation setup
 Day 42: altcoin strength check
 Day 43: BTC liquidity grab
+Day 44: ETH support hold
