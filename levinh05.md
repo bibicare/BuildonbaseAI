@@ -40,3 +40,4 @@ Day 27: market direction bias
 Day 28: BTC liquidity sweep
 Day 29: ETH fake breakout
 Day 30: altcoin accumulation
+Day 31: BTC trend continuation
