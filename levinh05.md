@@ -50,3 +50,4 @@ Day 37: BTC sideways range
 Day 38: ETH bullish structure
 Day 39: market reversal signs
 Day 40: BTC resistance flip
+Day 41: ETH continuation setup
