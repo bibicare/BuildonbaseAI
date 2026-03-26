@@ -24,3 +24,4 @@ Day 11: ETH trend continuation
 Day 12: altcoin momentum check
 Day 13: BTC short term setup
 Day 14: ETH long opportunity
+Day 15: market consolidation phase
