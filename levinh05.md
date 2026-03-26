@@ -25,3 +25,4 @@ Day 12: altcoin momentum check
 Day 13: BTC short term setup
 Day 14: ETH long opportunity
 Day 15: market consolidation phase
+Day 16: BTC key levels update
