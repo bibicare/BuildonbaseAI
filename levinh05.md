@@ -38,3 +38,4 @@ Day 25: BTC range analysis
 Day 26: ETH structure shift
 Day 27: market direction bias
 Day 28: BTC liquidity sweep
+Day 29: ETH fake breakout
