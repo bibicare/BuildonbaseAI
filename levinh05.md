@@ -52,3 +52,4 @@ Day 39: market reversal signs
 Day 40: BTC resistance flip
 Day 41: ETH continuation setup
 Day 42: altcoin strength check
+Day 43: BTC liquidity grab
