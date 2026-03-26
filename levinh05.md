@@ -19,3 +19,4 @@ Day 6: altcoin trend review
 Day 7: BTC breakout watch
 Day 8: ETH volume analysis
 Day 9: market structure review
+Day 10: BTC liquidity zones
