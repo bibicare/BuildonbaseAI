@@ -45,3 +45,4 @@ Day 32: ETH short setup
 Day 33: market volume spike
 Day 34: BTC key breakout
 Day 35: ETH retest zone
+Day 36: altcoin trend shift
