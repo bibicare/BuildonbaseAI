@@ -54,3 +54,4 @@ Day 41: ETH continuation setup
 Day 42: altcoin strength check
 Day 43: BTC liquidity grab
 Day 44: ETH support hold
+Day 45: market indecision phase
