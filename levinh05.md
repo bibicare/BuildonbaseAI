@@ -43,3 +43,4 @@ Day 30: altcoin accumulation
 Day 31: BTC trend continuation
 Day 32: ETH short setup
 Day 33: market volume spike
+Day 34: BTC key breakout
