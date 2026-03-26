@@ -17,3 +17,4 @@ Day 4: BTC support resistance
 Day 5: ETH futures setup
 Day 6: altcoin trend review
 Day 7: BTC breakout watch
+Day 8: ETH volume analysis
