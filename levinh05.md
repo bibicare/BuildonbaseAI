@@ -27,3 +27,4 @@ Day 14: ETH long opportunity
 Day 15: market consolidation phase
 Day 16: BTC key levels update
 Day 17: ETH price reaction
+Day 18: altcoin breakout scan
