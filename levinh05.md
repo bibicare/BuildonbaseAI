@@ -33,3 +33,4 @@ Day 20: ETH support test
 Day 21: market volatility check
 Day 22: BTC orderflow idea
 Day 23: ETH resistance zone
+Day 24: altcoin dip buying
