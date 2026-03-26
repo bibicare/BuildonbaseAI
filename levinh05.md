@@ -59,3 +59,4 @@ Day 46: BTC breakout attempt
 Day 47: ETH volume expansion
 Day 48: altcoin momentum rise
 Day 49: BTC trend exhaustion
+Day 50: ETH final setup review
