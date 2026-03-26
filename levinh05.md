@@ -47,3 +47,4 @@ Day 34: BTC key breakout
 Day 35: ETH retest zone
 Day 36: altcoin trend shift
 Day 37: BTC sideways range
+Day 38: ETH bullish structure
