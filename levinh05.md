@@ -35,3 +35,4 @@ Day 22: BTC orderflow idea
 Day 23: ETH resistance zone
 Day 24: altcoin dip buying
 Day 25: BTC range analysis
+Day 26: ETH structure shift
