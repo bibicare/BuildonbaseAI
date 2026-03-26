@@ -21,3 +21,4 @@ Day 8: ETH volume analysis
 Day 9: market structure review
 Day 10: BTC liquidity zones
 Day 11: ETH trend continuation
+Day 12: altcoin momentum check
