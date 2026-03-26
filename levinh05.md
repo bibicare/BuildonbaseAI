@@ -29,3 +29,4 @@ Day 16: BTC key levels update
 Day 17: ETH price reaction
 Day 18: altcoin breakout scan
 Day 19: BTC trend strength
+Day 20: ETH support test
