@@ -13,3 +13,4 @@ update 1 - Tìm xu hướng cho AI trên Base/
 Day 1: BTC analysis
 Day 2: ETH setup
 Day 3: market check
+Day 4: BTC support resistance
