@@ -30,3 +30,4 @@ Day 17: ETH price reaction
 Day 18: altcoin breakout scan
 Day 19: BTC trend strength
 Day 20: ETH support test
+Day 21: market volatility check
