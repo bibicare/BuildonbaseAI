@@ -12,3 +12,4 @@ Tôi đang học cách sử dụng GitHub.
 update 1 - Tìm xu hướng cho AI trên Base/
 Day 1: BTC analysis
 Day 2: ETH setup
+Day 3: market check
